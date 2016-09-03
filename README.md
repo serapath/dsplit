@@ -18,4 +18,4 @@ split string into array with default delimiter `'/'`
 ```
 
 # Related
-* see [getval](https://www.npmjs.com/package/djoin)
+* see [djoin](https://www.npmjs.com/package/djoin)
