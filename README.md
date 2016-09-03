@@ -16,3 +16,6 @@ split string into array with default delimiter `'/'`
   console.log(dsplit([])) // => []
   console.log(dsplit(undefined)) // => []
 ```
+
+# Related
+* see [getval](https://www.npmjs.com/package/djoin)

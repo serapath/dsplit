@@ -1,6 +1,6 @@
 {
   "name": "dsplit",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "split string into array with default delimiter `'/'`",
   "main": "index.js",
   "scripts": {
