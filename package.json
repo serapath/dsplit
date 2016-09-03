@@ -1,0 +1,30 @@
+{
+  "name": "dsplit",
+  "version": "1.0.0",
+  "description": "split string into array with default delimiter `'/'`",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/dsplit.git"
+  },
+  "keywords": [
+    "join",
+    "array",
+    "delimiter"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/dsplit/issues"
+  },
+  "homepage": "https://github.com/serapath/dsplit#readme",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "x-is-string": "^0.1.0"
+  }
+}
