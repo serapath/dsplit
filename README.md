@@ -11,10 +11,9 @@ split string into array with default delimiter `'/'`
   console.log(dsplit('/a/b//c/')) // => ['', 'a', 'b', '', 'c', '']
   console.log(dsplit('a/b//')) // => ['a', 'b', '', '']
   console.log(dsplit('//a/b')) // => ['', '', 'a', 'b']
-  console.log(dsplit('////') // => ['','','','']
-  console.log(dsplit('//')) // => ['','']
-  console.log(dsplit('/')) // => ['']
-  console.log(dsplit('')) // => []
+  console.log(dsplit('//')) // => ['','','']
+  console.log(dsplit('/')) // => ['','']
+  console.log(dsplit('')) // => ['']
   console.log(dsplit([])) // => []
   console.log(dsplit(undefined)) // => []
 ```
